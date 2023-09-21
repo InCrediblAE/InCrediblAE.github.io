@@ -18,11 +18,13 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'Workshop on Text Simplification, Accessibility, and Readability'
-    twitter: 'tsarworkshop'
+    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
@@ -35,15 +37,15 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: false
+    show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} TSAR. This work is licensed under {license}'
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

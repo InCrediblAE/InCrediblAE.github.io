@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Horacio Saggion
+title: Ben Wu
 
-weight: 15
+weight: 20
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Chair in Computer Science and Artificial Intelligence and Head of the LaSTUS Lab in the TALN-DTIC, Universitat Pompeu Fabra
+role: PhD Student, UoS
 
 # Organizations/Affiliations
 # organizations:
@@ -42,7 +42,7 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://www.upf.edu/web/horacio-saggion
+  # link: https://www.upf.edu/web/horacio-saggion
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'

@@ -1,22 +1,27 @@
 ---
 # Display name
-title: Victoria Yaneva
+title: Yida Mu
+
+weight: 20
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: National Board of Medical Examiners, USA
+role: Post-Doctoral Researcher, UoS
 
 # Organizations/Affiliations
-organizations:
-- name:
-  url:
+# organizations:
+# - name: School of Computer Science and Informatics
+#   url: https://www.cardiff.ac.uk/computer-science/
+# - name: Cardiff University
+#   url: https://www.cardiff.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
+- 
 
 # education:
 #   courses:
@@ -37,7 +42,7 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://www.victoriayaneva.info/
+  # link: https://www.upf.edu/web/horacio-saggion
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'
@@ -68,5 +73,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Speakers
+- Organizers
 ---

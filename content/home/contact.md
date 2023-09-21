@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: tsarworkshop@googlegroups.com
+  email: incrediblae@googlegroups.com
   # phone: 888 888 88 88
   # address:
   #   street: 450 Serra Mall
@@ -32,11 +32,11 @@ content:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: "@tsarworkshop"
-      link: 'https://twitter.com/tsarworkshop'
+  # contact_links:
+  #   - icon: twitter
+  #     icon_pack: fab
+  #     name: "@tsarworkshop"
+  #     link: 'https://twitter.com/tsarworkshop'
 
   # Automatically link email and phone or display as text?
   autolink: true

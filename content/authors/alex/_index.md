@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Fernando Alva-Manchego
+title: Alexander Shvets
 
-weight: 40
+weight: 10
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Lecturer at Cardiff University, UK
+role: Post-Doctoral Researcher, UPF
 
 # Organizations/Affiliations
 # organizations:
@@ -18,12 +18,10 @@ role: Lecturer at Cardiff University, UK
 #   url: https://www.cardiff.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include text adaptation, evaluation of natural language generation, and NLP for education.
+bio:
 
 interests:
-- Text Adaptation
-- Evaluation of Natural Language Generation
-- Natural Language Processing for Education
+- 
 
 # education:
 #   courses:
@@ -44,19 +42,19 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://feralvam.github.io/
+  # link: https://www.upf.edu/web/horacio-saggion
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/feralvam
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=4SnHu7sAAAAJ
-- icon: semantic-scholar
-  icon_pack: ai
-  link: https://www.semanticscholar.org/author/Fernando-Alva-Manchego/69930782
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/feralvam
+# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=4SnHu7sAAAAJ
+# - icon: semantic-scholar
+#   icon_pack: ai
+#   link: https://www.semanticscholar.org/author/Fernando-Alva-Manchego/69930782
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/feralvam

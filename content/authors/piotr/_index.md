@@ -1,20 +1,21 @@
 ---
 # Display name
-title: Matthew Shardlow
+title: Piotr Przybyła
 
-weight: 30
+weight: 1
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Senior Lecturer at Manchester Metropolitan University, UK
-
+role: Marie Skłodowska-Curie Fellow, UPF
 
 # Organizations/Affiliations
-organizations:
-- name:
-  url:
+# organizations:
+# - name: School of Computer Science and Informatics
+#   url: https://www.cardiff.ac.uk/computer-science/
+# - name: Cardiff University
+#   url: https://www.cardiff.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -41,7 +42,7 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://www.mmu.ac.uk/computing-and-maths/staff/profile/index.php?id=3711
+  # link: https://www.upf.edu/web/horacio-saggion
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'

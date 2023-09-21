@@ -1,27 +1,27 @@
 ---
 # Display name
-title: Sanja Štajner
-weight: 10
+title: Kim Cheng Sheang
+
+weight: 25
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Independent Researcher, Karlsruhe, Germany
+role: PhD Student, UPF
 
 # Organizations/Affiliations
-organizations:
-- name:
-  url:
+# organizations:
+# - name: School of Computer Science and Informatics
+#   url: https://www.cardiff.ac.uk/computer-science/
+# - name: Cardiff University
+#   url: https://www.cardiff.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-- Natural Language Processing for Social Good
-- Text Adaptation
-- Emotion Analysis
-- Personality Detection
+- 
 
 # education:
 #   courses:
@@ -42,19 +42,19 @@ interests:
 social:
 - icon: globe
   icon_pack: fas
-  link: https://stajnersanja.wixsite.com/sanja
+  # link: https://www.upf.edu/web/horacio-saggion
 # - icon: envelope
 #   icon_pack: fas
 #   link: 'mailto:AlvaManchegoF@cardiff.ac.uk'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/feralvam
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=trop0NcAAAAJ&hl=en
-- icon: semantic-scholar
-  icon_pack: ai
-  link: https://www.semanticscholar.org/author/Sanja-%C5%A0tajner/1952894
+# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=4SnHu7sAAAAJ
+# - icon: semantic-scholar
+#   icon_pack: ai
+#   link: https://www.semanticscholar.org/author/Fernando-Alva-Manchego/69930782
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/feralvam
@@ -75,4 +75,3 @@ highlight_name: true
 user_groups:
 - Organizers
 ---
-

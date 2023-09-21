@@ -7,13 +7,14 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: Second Workshop on Text Simplification, Accessibility and Readability
-subtitle:  "TSAR 2023 @ [RANLP 2023](http://ranlp.org/ranlp2023/)"
+title: "InCrediblAE: Investigating Robustness of Credibility Assessment with Adversarial Examples"
+subtitle:  "InCrediblAE 2024 in [CLEF 2024 - CheckThat! Lab](https://checkthat.gitlab.io/clef2024)"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: "1"
 ---
 
-The Text Simplification, Accessibility, and Readability (TSAR) workshop aims at bringing together researchers, developers and industries of assistive technologies, public organizations representatives, and other parties interested in the problem of making information more accessible to all citizens. We will discuss recent trends and developments in the area of automatic text simplification, automatic readability assessment, language resources and evaluation for text simplification, etc.
+The challenges of misinformation have been taken up with great energy and vigour by the NLP and IR communities. The main reasons for such enthusias- tic adoption of the new tasks are wide availability of textual data to train on and tantalisingly simple dichotomy of fake vs. real, clearly fitting the famil- iar task of binary classification.
 
-The workshop will be an in-person event held during the [RANLP 2023](http://ranlp.org/ranlp2023/) conference on September, 2023.
+The workshop will be an in-person event held during the [CLEF 2024](https://clef2024.clef-initiative.eu/) conference on ...
+
