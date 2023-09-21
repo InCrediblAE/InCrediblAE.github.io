@@ -2,7 +2,7 @@
 # Display name
 title: Kim Cheng Sheang
 
-weight: 25
+weight: 30
 
 # Is this the primary user of the site?
 superuser: true
